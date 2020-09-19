@@ -1,0 +1,1 @@
+I hope to learn how to code the Google Homepage. This will be an introduction on web development as I hope to enter a new career. 
